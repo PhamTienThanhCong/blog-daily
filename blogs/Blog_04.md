@@ -1,7 +1,7 @@
 
 # Refactoring Tốt và Xấu
 
-Là một lập trình viên với nhiều năm kinh nghiệm, mình đã từng thuê và làm việc với rất nhiều đồng nghiệp khác nhau. Một trong những tình huống phổ biến mình thường gặp là có nhiều người rất tin rằng mã nguồn hiện tại cần phải được refactor lại mạnh mẽ. Tuy nhiên, thực tế cho thấy, hầu hết những mã nguồn đã được refactor đó thường trở nên khó hiểu hơn, khó bảo trì hơn, chạy chậm hơn và thậm chí còn nhiều lỗi hơn.
+Là một lập trình viên, Một trong những tình huống phổ biến mình thường gặp là có nhiều người rất tin rằng mã nguồn hiện tại cần phải được refactor lại mạnh mẽ. Tuy nhiên, thực tế cho thấy, hầu hết những mã nguồn đã được refactor đó thường trở nên khó hiểu hơn, khó bảo trì hơn, chạy chậm hơn và thậm chí còn nhiều lỗi hơn.
 
 Đừng hiểu sai, refactoring là một việc cần thiết và quan trọng để duy trì chất lượng mã nguồn. Vấn đề chỉ nảy sinh khi việc refactor được thực hiện sai cách, và rất dễ rơi vào tình huống làm cho mọi thứ tệ hơn khi bạn đang cố gắng cải thiện nó.
 
