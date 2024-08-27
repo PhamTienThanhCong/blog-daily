@@ -1,5 +1,5 @@
 
-# Viết code ES6 tối giản
+# Phương pháp viết code ES6 tối giản hơn màn bạn có thể đã bỏ qua
 
 Trong hệ sinh thái JavaScript thay đổi liên tục, việc thiết kế code đơn giản và hiệu quả ngày càng quan trọng. Sự ra đời của ES6 đã giới thiệu một loạt các tính năng mới giúp đơn giản hóa và tối ưu hóa cách viết JavaScript. Bài viết này thảo luận về các phương pháp ES6 mới có thể thay thế các mẫu cũ, phức tạp, giúp code trở nên gọn gàng và dễ đọc hơn. Từ việc ép kiểu Boolean đến toán tử spread mạnh mẽ, những chiến lược này giúp tăng khả năng đọc, hiệu suất, và tính bảo trì của code. Hãy cùng xem qua một số kỹ thuật thiết yếu mà bất kỳ lập trình viên JavaScript nào cũng nên theo để viết code ES6 tối giản.
 
@@ -148,4 +148,6 @@ const fillArray = items => {
 
 Tóm lại, việc sử dụng các tính năng ES6 có thể đơn giản hóa đáng kể code JavaScript, làm cho nó ngắn gọn, dễ đọc và hiệu quả hơn. Việc tích hợp các phương pháp hiện đại này sẽ mang lại code gọn gàng và dễ bảo trì hơn, cải thiện cả quá trình phát triển và hiệu suất. Hãy áp dụng những cách tiếp cận này để nâng cao tiêu chuẩn code và đơn giản hóa công việc của mình.
 
-Chúc mọi người code vui vẻ 👨‍💻
+Cảm ơn anh em đã đọc bài viết của mình. Hi vọng bài viết sẽ giúp ích cho anh em.
+
+Anh em hãy theo giõi mình để có thêm nhiều bài viết hay và bổ ích nhé !

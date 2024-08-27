@@ -254,3 +254,7 @@ Phiên bản này giữ lại cơ chế caching và có thể cải thiện bằ
 Refactoring là một phần không thể thiếu trong phát triển phần mềm, nhưng nó cần được thực hiện một cách thận trọng và phải hiểu rõ ngữ cảnh của mã nguồn. Mục tiêu là cải thiện mã mà không làm thay đổi hành vi bên ngoài của nó.
 
 Lần tới khi bạn cảm thấy muốn thực hiện thay đổi lớn cho một đoạn mã, hãy dừng lại và suy nghĩ cẩn thận. Hiểu rõ mã trước khi thay đổi, giữ mã nhất quán và thực hiện những cải tiến nhỏ mà có giá trị lớn. Đồng đội của bạn sẽ cảm ơn bạn vì điều đó!
+
+Cảm ơn anh em đã đọc bài viết của mình. Hi vọng bài viết sẽ giúp ích cho anh em.
+
+Anh em hãy theo giõi mình để có thêm nhiều bài viết hay và bổ ích nhé !
