@@ -8,3 +8,4 @@
 | 4 | Refactoring Tốt và Xấu | [Link](https://github.com/PhamTienThanhCong/blog-daily/blob/main/blogs/Blog_04.md) | [Link](https://www.builder.io/blog/good-vs-bad-refactoring) |
 | 5 | Viết code ES6 tối giản | [Link](https://github.com/PhamTienThanhCong/blog-daily/blob/main/blogs/Blog_05.md) | [Link](https://dev.to/mursalfk/write-minimal-es6-code-1o81) |
 | 6 | Cách Làm Cho Điện Thoại Rung Bằng JavaScript | [Link](https://github.com/PhamTienThanhCong/blog-daily/blob/main/blogs/Blog_06.md) | [Link](https://dev.to/free_programmers/how-to-make-a-phone-vibrate-using-javascript-585n) |
+| 7 | Top 5 Tính Năng HTML Bạn Chưa Sử Dụng | [Link](https://github.com/PhamTienThanhCong/blog-daily/blob/main/blogs/Blog_07.md) | [Link](https://dev.to/safdarali/top-5-html-features-youre-not-using-but-should-be-2i0e) |
